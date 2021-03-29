@@ -1,2 +1,2 @@
 # Pokemon
-Shiny - Pokémin
+Shiny - Pokémon
